@@ -31,3 +31,21 @@ int main()
     cout << "printTriangle" << endl;
     printTriangle(n);
 }
+
+/*
+output:
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * * 
+* * * * 
+* * * 
+* * 
+*
+
+
+
+
+*/
